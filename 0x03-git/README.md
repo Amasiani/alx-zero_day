@@ -1,1 +1,1 @@
-My directory non empty readme
+My Second ALX git project.
